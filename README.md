@@ -1,6 +1,6 @@
 ### web-buster
 
-[![web-buster CI](https://github.com/nerdalert/web-buster/actions/workflows/docker-image.yml/badge.svg)](https://github.com/nerdalert/web-buster/actions/workflows/docker-image.yml)
+[![web-buster CI](https://github.com/nerdalert/web-buster/actions/workflows/build-image.yml/badge.svg)](https://github.com/nerdalert/web-buster/actions/workflows/build-image.yml)
 
 - Bustin webs since 2022
 - Made for http stress-testing
